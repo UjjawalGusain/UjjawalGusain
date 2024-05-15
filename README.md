@@ -30,7 +30,7 @@
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> From binary to python, we came a long way. As someone who's interested in creating diverse solutions, I cannot let any language barrier to stop it! here are my language tools under the belt</p>
+<p> From binary to python, we came a long way. As someone who's interested in creating diverse solutions, I cannot let any language barrier stop me! Here are the language tools under my belt</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
